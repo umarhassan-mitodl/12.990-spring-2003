@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "515d2ed4-62f1-536b-0553-11f016f57a1d",
+  "instructors": {
+    "content": [
+      "426bac6c-c1e4-dec8-b3d3-09dd951b7447"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4a6ba946-bbc4-3fcf-c63d-50b8687de0de",
+    "website": "12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003"
+  },
+  "course_title": "Prediction and Predictability in the Atmosphere and Oceans",
+  "course_description": "Forecasting is the ultimate form of model validation. But even if a perfect model is in hand, imperfect forecasts are likely. This course will cover the factors that limit our ability to produce good forecasts, will show how the quality of forecasts can be gauged _a priori_ (predicting our ability to predict!), and will cover the state of the art in operational atmosphere and ocean forecasting systems.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.990",
+  "course_image_thumbnail": {
+    "content": "09c56200-5c57-8231-5abe-a08fb690b294",
+    "website": "12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003"
+  },
+  "learning_resource_types": [
+    "Programming Assignments"
+  ],
+  "site_uid": "9db190ec-d079-4b42-a8ae-e413bafe5ace",
+  "site_short_id": "12.990-spring-2003",
+  "site_url_path": "courses/12-990-prediction-and-predictability-in-the-atmosphere-and-oceans-spring-2003",
+  "title": "Course Metadata"
+}
